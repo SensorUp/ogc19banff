@@ -13,8 +13,7 @@ Banff is 90-minutes from Calgary International Airport and is easily accessible 
 More about how to get here: https://www.banffcentre.ca/destination
 
 ## Sponsors
-SensorUp
-
+<img src="https://cdn-images-1.medium.com/max/806/1*PQS_s4q-_K5zt55HB9gtSQ@2x.png" width=400>
 ## Special Events
 
 ## Meeting Hotel
