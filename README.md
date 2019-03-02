@@ -1,15 +1,15 @@
 # ogc19banff
 Essential information for the 112th OGC Technical Committee in Banff, Canada
 
-##About the Event
+## About the Event
 
-###Meeting Location
+### Meeting Location
 
-###Local Information and Travel
+### Local Information and Travel
 
-###Sponsors
+### Sponsors
 
-###Special Events
+### Special Events
 
-###Meeting Hotel
+### Meeting Hotel
 
