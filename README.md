@@ -16,6 +16,15 @@ More about how to get here: https://www.banffcentre.ca/destination
 <img src="https://cdn-images-1.medium.com/max/806/1*PQS_s4q-_K5zt55HB9gtSQ@2x.png" width=400>
 
 ## Special Events
+### Sunday - 2019-09-08
+Hiking? Pub night? Both?
+### Monday - 2019-09-09
+TBD
+### Tuesday - 2019-09-10
+Something fun after the meetings
+### Wednesday - 2019-09-11
+Banquet
+
 
 ## Meeting Hotel
 
