@@ -25,6 +25,8 @@ Something fun after the meetings
 ### Wednesday - 2019-09-11
 Banquet
 
+## Photo Contest
+Submit a photo taken during TC to win a prize!
 
 ## Meeting Hotel
 
