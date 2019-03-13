@@ -29,5 +29,6 @@ Banquet
 Submit a photo taken during TC to win a prize!
 
 ## Meeting Hotel
-We've reserved room blocks at Banff Centre. Booking information available soon.
+We've reserved room blocks at the [Banff Centre](https://www.banffcentre.ca/hotels). Booking information available soon.
+
 <img src="https://www.banffcentre.ca/sites/default/files/Architecture%20and%20Buildings/Lloyd%20Hall/Lloyd%20Hall%20Banff%20Cntr%20%2808%29.jpg" width=400>
