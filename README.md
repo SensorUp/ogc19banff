@@ -15,6 +15,9 @@ More about how to get here: https://www.banffcentre.ca/destination
 ## Sponsors
 <img src="https://cdn-images-1.medium.com/max/806/1*PQS_s4q-_K5zt55HB9gtSQ@2x.png" width=400>
 
+## Summits
+### SensorThings Summit
+
 ## Special Events
 ### Sunday - 2019-09-08
 Hiking? Pub night? Both?
